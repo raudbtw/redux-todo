@@ -1,0 +1,23 @@
+{
+  "name": "fep",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lobanov-k/FEP_26_07_2022.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lobanov-k/FEP_26_07_2022/issues"
+  },
+  "homepage": "https://github.com/lobanov-k/FEP_26_07_2022#readme",
+  "dependencies": {
+    "bootstrap": "5.2.2"
+  }
+}
